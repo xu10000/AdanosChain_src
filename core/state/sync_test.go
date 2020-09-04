@@ -23,8 +23,8 @@ import (
 
 	"github.com/wtc/go-wtc/common"
 	"github.com/wtc/go-wtc/crypto"
-	"github.com/wtc/go-wtc/wtcdb"
 	"github.com/wtc/go-wtc/trie"
+	"github.com/wtc/go-wtc/wtcdb"
 )
 
 // testAccount is the data associated with an account used by the state tests.
